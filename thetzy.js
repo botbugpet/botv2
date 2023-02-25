@@ -34,7 +34,7 @@ global.f6 = 'application/vnd.android.package-archive'
 //—————「 Set Nama Own & Bot 」—————//
 global.nomerOwner = "6288221525627" //Bebas ganti 
 global.namaOwner = "NUEL DEV" //Bebas ganti
-global.footer = 'NIEL DEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.footer = 'NUEL DEV' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 global.packname = 'NUEL Bot'
 global.ownerr = ['NUEL DEV']
